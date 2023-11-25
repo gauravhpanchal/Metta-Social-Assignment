@@ -8,6 +8,8 @@ This web application allows users to search for countries associated with a spec
 
 - **Flag Display:** The app shows the flag of each country found, enhancing the user experience.
 
+- **Mobile Responsive:** The website is designed to be responsive and provides an optimal viewing experience across a wide range of devices.
+
 ## Demo
 
 Demo Link: https://6561cd49c9c6ba13ea80426b--chic-raindrop-5d8ab3.netlify.app/
