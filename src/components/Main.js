@@ -109,7 +109,9 @@ const Main = () => {
         </div>
       )}
       {/* Countries Cards After Search */}
-
+      <p className="font-bold text-3xl mt-4 underline">
+        Countries Matching Your Search
+      </p>
       <div className="flex gap-16 flex-wrap justify-center mb-10">
         {Array.isArray(countries) ? (
           countries?.map((country) => (
