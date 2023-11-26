@@ -12,7 +12,7 @@ This web application allows users to search for countries associated with a spec
 
 ## Demo
 
-Demo Link: https://6561cd49c9c6ba13ea80426b--chic-raindrop-5d8ab3.netlify.app/
+Demo Link: [https://6561cd49c9c6ba13ea80426b--chic-raindrop-5d8ab3.netlify.app/](https://chic-raindrop-5d8ab3.netlify.app/)
 
 ## Technologies Used
 
